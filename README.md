@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DeeaEmilia/Challenge1-FrontendMentor)
-- Live Site URL: [Add live site URL here](https://challenge1-qrcode.netlify.app/)
+- Solution URL: [click here](https://github.com/DeeaEmilia/Challenge1-FrontendMentor)
+- Live Site URL: [click here](https://challenge1-qrcode.netlify.app/)
 
 ## My process
 
@@ -39,5 +39,5 @@ My plan is to do as many Frontend Mentor challenges as I can, starting easy to g
 
 ## Author
 
-- Website - [Add your name here](https://andreea-emilia-duta.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Portfolio](https://andreea-emilia-duta.netlify.app/)
+- Frontend Mentor - [@DeeaEmilia](https://www.frontendmentor.io/profile/DeeaEmilia)
